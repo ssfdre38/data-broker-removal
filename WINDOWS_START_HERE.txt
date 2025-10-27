@@ -1,0 +1,98 @@
+# Data Broker Removal Tool - Package for Windows
+
+This folder contains everything you need to remove your data from data brokers on Windows.
+
+## 🚀 QUICK START (Windows Users)
+
+### First Time Setup:
+1. **Install Python** if you don't have it:
+   - Download: https://www.python.org/downloads/
+   - ⚠️ CHECK "Add Python to PATH" during install!
+   - Restart your computer
+
+2. **Double-click:** `install_windows.bat`
+   - This installs required libraries
+   - Takes 1-2 minutes
+
+### Using the Tool:
+
+**Easy Mode (Recommended):**
+- Double-click: `run_manual_windows.bat`
+- Creates an interactive HTML checklist
+- You manually click through each site
+- Progress saved automatically
+
+**Auto Mode (Semi-Automated):**
+- Double-click: `run_windows.bat`
+- Browser opens and helps fill forms
+- You still handle CAPTCHAs
+- Saves screenshots of everything
+
+## 📁 Files Included
+
+| File | What it does |
+|------|--------------|
+| `run_manual_windows.bat` | 👈 **START HERE** - Easiest option |
+| `run_windows.bat` | Automated browser version |
+| `install_windows.bat` | One-time setup |
+| `README_WINDOWS.md` | Full Windows guide |
+| `remove_data.py` | Manual tool (Python) |
+| `auto_optout_windows.py` | Automated tool (Python) |
+| `data_brokers.json` | List of 25+ data brokers |
+
+## ⚡ Fastest Way to Get Started
+
+1. Right-click `install_windows.bat` → Run as administrator
+2. Wait for it to finish
+3. Double-click `run_manual_windows.bat`
+4. Enter your info
+5. Open the HTML file it creates
+6. Start clicking through the list!
+
+## 🆘 Troubleshooting
+
+**"Python not found"**
+→ Install Python from python.org (check "Add to PATH")
+
+**"Permission denied"**
+→ Right-click the .bat file → Run as administrator
+
+**"Selenium error"**
+→ Run `install_windows.bat` again
+
+## 📖 Need More Help?
+
+Open `README_WINDOWS.md` for:
+- Detailed troubleshooting
+- ChromeDriver setup
+- Advanced options
+- Screenshots and examples
+
+## 🎯 What This Tool Does
+
+- ✅ Generates opt-out request templates
+- ✅ Creates interactive checklists with direct links
+- ✅ Tracks your progress automatically
+- ✅ Includes 25+ major data brokers
+- ✅ Optional browser automation
+- ✅ Takes screenshots for your records
+- ✅ 100% free and open source
+
+## ⏱️ Time Required
+
+- Manual mode: 1-3 hours total
+- Automated mode: 45-90 minutes
+- Can pause and resume anytime
+
+## 🔒 Privacy
+
+- Everything runs on YOUR computer
+- No data sent anywhere
+- You control what information to share
+- Review the code - it's open source!
+
+---
+
+**👉 Just double-click `run_manual_windows.bat` to get started!**
+
+For questions, see README_WINDOWS.md

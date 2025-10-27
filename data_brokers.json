@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Spokeo",
+    "website": "https://www.spokeo.com",
+    "opt_out_url": "https://www.spokeo.com/optout",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "WhitePages",
+    "website": "https://www.whitepages.com",
+    "opt_out_url": "https://www.whitepages.com/suppression_requests",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "BeenVerified",
+    "website": "https://www.beenverified.com",
+    "opt_out_url": "https://www.beenverified.com/app/optout/search",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "Intelius",
+    "website": "https://www.intelius.com",
+    "opt_out_url": "https://www.intelius.com/optout",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "PeopleFinders",
+    "website": "https://www.peoplefinders.com",
+    "opt_out_url": "https://www.peoplefinders.com/opt-out",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "Instant Checkmate",
+    "website": "https://www.instantcheckmate.com",
+    "opt_out_url": "https://www.instantcheckmate.com/opt-out",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "TruthFinder",
+    "website": "https://www.truthfinder.com",
+    "opt_out_url": "https://www.truthfinder.com/opt-out",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "MyLife",
+    "website": "https://www.mylife.com",
+    "opt_out_url": "https://www.mylife.com/privacy-policy",
+    "method": "web_form",
+    "email": "privacy@mylife.com"
+  },
+  {
+    "name": "Radaris",
+    "website": "https://radaris.com",
+    "opt_out_url": "https://radaris.com/control/privacy",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "PeopleSmart",
+    "website": "https://www.peoplesmart.com",
+    "opt_out_url": "https://www.peoplesmart.com/optout-go",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "USSearch",
+    "website": "https://www.ussearch.com",
+    "opt_out_url": "https://www.ussearch.com/opt-out/submit",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "Addresses",
+    "website": "https://www.addresses.com",
+    "opt_out_url": "https://www.addresses.com/optout.php",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "NeighborWho",
+    "website": "https://www.neighborwho.com",
+    "opt_out_url": "https://www.neighborwho.com/optout",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "TruePeopleSearch",
+    "website": "https://www.truepeoplesearch.com",
+    "opt_out_url": "https://www.truepeoplesearch.com/removal",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "FastPeopleSearch",
+    "website": "https://www.fastpeoplesearch.com",
+    "opt_out_url": "https://www.fastpeoplesearch.com/removal",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "CheckPeople",
+    "website": "https://www.checkpeople.com",
+    "opt_out_url": "https://www.checkpeople.com/opt-out",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "PeekYou",
+    "website": "https://www.peekyou.com",
+    "opt_out_url": "https://www.peekyou.com/about/contact/ccpa_optout",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "Nuwber",
+    "website": "https://nuwber.com",
+    "opt_out_url": "https://nuwber.com/removal/link",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "USPhonebook",
+    "website": "https://www.usphonebook.com",
+    "opt_out_url": "https://www.usphonebook.com/opt-out",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "411",
+    "website": "https://www.411.com",
+    "opt_out_url": "https://www.411.com/opt_out",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "AnyWho",
+    "website": "https://www.anywho.com",
+    "opt_out_url": "https://www.anywho.com/optout",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "Yasni",
+    "website": "https://www.yasni.com",
+    "opt_out_url": "https://www.yasni.com/opt",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "Acxiom",
+    "website": "https://www.acxiom.com",
+    "opt_out_url": "https://isapps.acxiom.com/optout/optout.aspx",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "Experian",
+    "website": "https://www.experian.com",
+    "opt_out_url": "https://www.experian.com/privacy/opt_out.html",
+    "method": "web_form",
+    "email": null
+  },
+  {
+    "name": "Oracle Data Cloud",
+    "website": "https://datacloud.oracle.com",
+    "opt_out_url": "https://datacloud.oracle.com/registry",
+    "method": "web_form",
+    "email": null
+  }
+]
